@@ -10,4 +10,4 @@ chmod a+x dpscript.sh
 ./dpscript.sh
 ```
 
-then open your browser, goto: `http://localhost:/5000/`
+then open your browser, goto: `http://localhost:5000/`
